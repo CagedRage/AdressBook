@@ -1,0 +1,10 @@
+C:\Users\krish\source\repos\kAdressBook\kAdressBook\obj\Debug\kAdressBook.csproj.CoreCompileInputs.cache
+C:\Users\krish\source\repos\kAdressBook\kAdressBook\obj\Debug\kAdressBook.csprojAssemblyReference.cache
+C:\Users\krish\source\repos\kAdressBook\kAdressBook\bin\Debug\kAdressBook.exe.config
+C:\Users\krish\source\repos\kAdressBook\kAdressBook\bin\Debug\kAdressBook.exe
+C:\Users\krish\source\repos\kAdressBook\kAdressBook\bin\Debug\kAdressBook.pdb
+C:\Users\krish\source\repos\kAdressBook\kAdressBook\bin\Debug\AdressBookBinaryLibrary.dll
+C:\Users\krish\source\repos\kAdressBook\kAdressBook\bin\Debug\AdressBookBinaryLibrary.pdb
+C:\Users\krish\source\repos\kAdressBook\kAdressBook\obj\Debug\kAdressBook.csproj.CopyComplete
+C:\Users\krish\source\repos\kAdressBook\kAdressBook\obj\Debug\kAdressBook.exe
+C:\Users\krish\source\repos\kAdressBook\kAdressBook\obj\Debug\kAdressBook.pdb

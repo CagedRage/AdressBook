@@ -1,0 +1,6 @@
+C:\Users\krish\source\repos\kAdressBook\AdressBookBinaryLibrary\bin\Debug\AdressBookBinaryLibrary.dll
+C:\Users\krish\source\repos\kAdressBook\AdressBookBinaryLibrary\bin\Debug\AdressBookBinaryLibrary.pdb
+C:\Users\krish\source\repos\kAdressBook\AdressBookBinaryLibrary\obj\Debug\AdressBookBinaryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\krish\source\repos\kAdressBook\AdressBookBinaryLibrary\obj\Debug\AdressBookBinaryLibrary.dll
+C:\Users\krish\source\repos\kAdressBook\AdressBookBinaryLibrary\obj\Debug\AdressBookBinaryLibrary.pdb
+C:\Users\krish\source\repos\kAdressBook\AdressBookBinaryLibrary\obj\Debug\AdressBookBinaryLibrary.csprojAssemblyReference.cache
